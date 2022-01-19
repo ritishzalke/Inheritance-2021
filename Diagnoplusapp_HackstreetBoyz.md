@@ -45,15 +45,9 @@ It uses **Firebase Authentication** to Sign Up and Login and **Firebase Database
 ## Languages and Technologies
 1.Dart 
 
-2.HTML
+2.Flutter
 
-3.Makefile
-
-4.Java
-
-5.Flutter
-
-6.Firebase
+3.Firebase
 
 
 ## Tools Used
@@ -114,7 +108,10 @@ Why feel pain and side effects of missing your medicines, when DIANO+ app can al
 ## Log out Popup
 <img src="https://drive.google.com/uc?export=view&id=1T4aARapEhaDospUAehh0NdIMBfkDHFw3"  width="250" height="540"/> 
 
-
 ## Demo Recording and apk file
 
 https://drive.google.com/drive/folders/1t9E1gUFWgu8jsA4Boe9rY2UH50XW5Dla?usp=sharing
+
+## Github Repository
+
+https://github.com/ritishzalke/DiagnoPlus
